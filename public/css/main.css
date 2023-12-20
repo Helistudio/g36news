@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "EEI";
+    src: url("../fonts/Expanded ExtraBold Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: "EE";
+    src: url("../fonts/Expanded ExtraBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "SB";
+    src: url("../fonts/SemiExpanded Bold.otf") format("opentype");
+}
+
+body {
+    background-color: #CCCAC7;
+    margin-top: 30px;
+}
+
+.news-section .title {
+
+}
+
+.news-section .nav-pills a {
+    font-family: "EEI";
+    font-weight: 700;
+    color: #515050;
+    font-size: 24px;
+    border-radius: 0;
+    padding: 12px 20px;
+}
+.news-section .nav-pills .nav-link.active, 
+.news-section .nav-pills .show > .nav-link {
+    background-color: #FFCA51;
+    color: #242424;
+    border: solid 2px #242424;
+}
+
+.news-section .description {
+    font-family: "SB";
+    background-color: #FFFCF8;
+    padding: 15px;
+    font-size: 21px;
+    color: #242424
+}
+
+.news-section .description img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.news-section .description h3 {
+    color: #b83e09;
+    font-size: 27px;
+}
