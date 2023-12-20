@@ -15,6 +15,7 @@ class NewsController extends Controller
     public function getNews(Request $request) {
 
         $news = DB::connection('gamemain')->table('notice as n')
+        ->where('n.status', '=', 1)
         ->orderBy('n.id', 'desc')
         ->get();
         return view("news", [
