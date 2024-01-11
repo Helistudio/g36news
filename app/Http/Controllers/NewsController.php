@@ -5,10 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Facades\Http;
-use Illuminate\Support\Facades\Redis;
-use Illuminate\Http\Client\RequestException;
+
 
 class NewsController extends Controller
 {
@@ -20,6 +17,45 @@ class NewsController extends Controller
         ->get();
         return view("news", [
             'news' => $news
+        ]);
+    }
+
+    public function getGachaHistory(Request $request) {
+
+        $gacha_history = DB::connection('game')->table('user_gacha_history as ugh')
+        ->orderBy('ugh.id', 'desc')
+        ->limit(20)
+        ->get();
+
+        $heros = DB::connection('gamemain')->table('hero as h')
+        ->where('h.release', '=', 1)
+        ->get();
+
+        $itemShops = DB::connection('gamemain')->table('item_shop')->get();
+
+        $itemDatas = DB::connection('gamemain')->table('item')->get();
+
+        $heroArray = [];
+        $itemShopArray = [];
+        $itemDataArray = [];
+
+        foreach($heros as $hero) {
+            $heroArray[$hero->id] = $hero->name;
+        }
+
+        foreach($itemShops as $is) {
+            $itemShopArray[$is->id] = $is->name;
+        }
+
+        foreach($itemDatas as $idata) {
+            $itemDataArray[$idata->id] = $idata->name;
+        }
+
+        return view("gacha_history", [
+            'gacha_history' => $gacha_history,
+            'heros'         => $heroArray,
+            'itemShop'      => $itemShopArray,
+            'itemData'      => $itemDataArray,
         ]);
     }
 }

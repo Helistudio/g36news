@@ -12,10 +12,13 @@
 }
 
 body {
-    background-color: #CCCAC7;
+    background-color: #FFF;
     margin-top: 30px;
 }
 
+.news-container {
+    background-color: #CCCAC7;
+}
 .news-section .title {
 
 }
@@ -51,4 +54,36 @@ body {
 .news-section .description h3 {
     color: #b83e09;
     font-size: 27px;
+}
+
+.gacha-history-container  {
+    font-family: "SB";
+    background-color: #F8F5EE;
+    font-size: 21px;
+    color: #242424
+}
+
+.gacha-history-container table {
+    border: solid 2px #C1BCB8;
+    width: 100%;
+}
+
+.gacha-history-container table tr:nth-child(odd) {
+    background: #EFECE5;
+}
+
+.gacha-history-container table tr:nth-child(even) {
+    background: #E4E0D7;
+}
+
+.gacha-history-container table tr td {
+    padding: 5px 15px;
+}
+
+.gacha-history-container table tr td .username {
+    color: #13760C;
+}
+
+.gacha-history-container table tr td .bonus {
+    color: #E1882C;
 }

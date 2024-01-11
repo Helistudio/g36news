@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'NewsController@getNews')->name('h39.news');
+Route::get('/lich-su-trieu-hoi', 'NewsController@getGachaHistory')->name('h39.gachaHistory');
