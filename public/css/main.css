@@ -27,7 +27,7 @@ body {
     font-family: "EEI";
     font-weight: 700;
     color: #515050;
-    font-size: 12px;
+    font-size: 16px;
     border-radius: 0;
     padding: 12px 20px;
 }
@@ -42,7 +42,7 @@ body {
     font-family: "SB";
     background-color: #FFFCF8;
     padding: 15px;
-    font-size: 8px;
+    font-size: 12px;
     color: #242424
 }
 
@@ -59,7 +59,7 @@ body {
 .gacha-history-container  {
     font-family: "SB";
     background-color: #F8F5EE;
-    font-size: 8px;
+    font-size: 12px;
     color: #242424
 }
 
