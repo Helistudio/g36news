@@ -35,7 +35,7 @@
                         }
                 ?>
                     <tr>
-                        <td><span class="username">{{ $gh->username }}</span> nhận {{ $bonusItemType }}<span class="bonus"> {{ $bonusItemName }}</span></td>
+                        <td><span class="username">{{ $gh->screen_name }}</span> nhận {{ $bonusItemType }}<span class="bonus"> {{ $bonusItemName }}</span></td>
                     </tr>
                 <?php endforeach;?>
             </table>
