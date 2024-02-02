@@ -34,7 +34,7 @@
                 <div class="title-wrapper">
                     <p class="gacha-detail-title">Chi tiết vật phẩm ngẫu nhiên</p>
                 </div>
-                <div class="scroll-table">
+                <div>
                     <table>
                         <tr>
                             <td>Bồi dưỡng đan x100</td>
