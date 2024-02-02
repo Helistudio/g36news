@@ -88,3 +88,59 @@ body {
 .gacha-history-container table tr td .bonus {
     color: #E1882C;
 }
+
+.title-wrapper {
+    text-align: center;
+}
+
+.gacha-detail-title {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.gacha-detail-title::before,
+.gacha-detail-title::after {
+    content: "";
+    position: absolute;
+    width: 45px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top: solid 1px #7C7B77;
+}
+
+.gacha-detail-title::before {
+    left: -55px;
+}
+
+.gacha-detail-title::after {
+    right: -55px;
+}
+
+.primary-color {
+    color: #E1882C;
+}
+.secondary-color {
+    color: #A44FB4;
+}
+.third-color {
+    color: #3691BE;
+}
+
+.special-bg {
+    background-color: #FBE2A9 !important;
+}
+
+.table-1 {
+    margin-bottom: 15px;
+}
+
+.scroll-table {
+    height: 250px;
+    overflow-y: scroll;
+}
+
+.table-1 tbody tr td:nth-child(2),
+.table-2 tbody tr td:nth-child(2) {
+    text-align: right;
+}

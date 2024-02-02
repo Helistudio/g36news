@@ -58,4 +58,12 @@ class NewsController extends Controller
             'itemData'      => $itemDataArray,
         ]);
     }
+
+    public function getGachaDetail(Request $request) {
+        return view("gacha_detail");
+    }
+
+    public function getLimitedGachaDetail(Request $request) {
+        return view("limited_gacha_detail");
+    }
 }
