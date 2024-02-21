@@ -25,7 +25,7 @@ body {
 
 .news-section .news-tab {
     position: fixed;
-    width: 95px;
+    width: 20%;
 }
 
 .news-section .nav-pills a {
