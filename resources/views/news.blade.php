@@ -3,7 +3,7 @@
 @section("content")
     <div class="row news-section">
         <div class="col-3">
-            <div class="nav flex-column nav-pills" role="tablist" aria-orientation="vertical">
+            <div class="nav flex-column nav-pills news-tab" role="tablist" aria-orientation="vertical">
                 <?php foreach($news as $index =>  $new):
                     $active_class = $index == 0 ? 'active' : '';
                 ?>
@@ -21,7 +21,7 @@
                             <img src ="{{ $new->image }}" alt=""/>
                         <?php endif;?>
                         <div>
-                            {{ $new->description }}
+                            <?php echo $new->description;?>
                         </div>
                     </div>
                 <?php endforeach;?>

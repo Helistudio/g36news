@@ -23,6 +23,11 @@ body {
 
 }
 
+.news-section .news-tab {
+    position: fixed;
+    width: 95px;
+}
+
 .news-section .nav-pills a {
     font-family: "EEI";
     font-weight: 700;
