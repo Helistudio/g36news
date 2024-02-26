@@ -84,4 +84,8 @@ class NewsController extends Controller
     public function getLimitedGachaDetail(Request $request) {
         return view("limited_gacha_detail");
     }
+
+    public function battleIntro(Request $request) {
+        return view("battle_intro");
+    }
 }
