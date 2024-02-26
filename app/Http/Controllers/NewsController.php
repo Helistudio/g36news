@@ -16,7 +16,7 @@ class NewsController extends Controller
         ->where('n.status', '=', 1)
         ->orderBy('n.id', 'desc')
         ->get();
-        return view("battle_intro", [
+        return view("news", [
             'news' => $news
         ]);
     }
