@@ -25,14 +25,14 @@ body {
 
 .news-section .news-tab {
     position: fixed;
-    width: 22%;
+    width: 20%;
 }
 
 .news-section .nav-pills a {
     font-family: "EEI";
     font-weight: 700;
     color: #515050;
-    font-size: 15px;
+    font-size: 14px;
     border-radius: 0;
     padding: 12px 20px;
 }
