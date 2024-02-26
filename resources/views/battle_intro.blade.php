@@ -43,7 +43,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tab-pane description fade" id="v-pills-2" role="tabpanel" >
+                <div class="tab-pane description img-w-80 fade" id="v-pills-2" role="tabpanel" >
                     <div>
                         <ul>
                             <li>Khi tích đủ 100 điểm năng lượng, Chiến binh sẽ sử dụng đòn đánh tuyệt kỹ một cách tự động.<img src="./images/intro_tuyet_ky.png"/></li>

@@ -51,6 +51,10 @@ body {
     color: #242424
 }
 
+.news-section .description ul {
+    padding-left: 15px;
+}
+
 .news-section .description img {
     /* width: 100%; */
     /* margin-bottom: 20px; */
