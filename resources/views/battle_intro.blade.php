@@ -140,14 +140,6 @@
                             </td>
                         </tr>
                         <tr>
-                            <td>Hồi sinh</td>
-                            <td>
-                                <div class="effect">
-                                    <img class="hero-img" src="./images/effects/hero.png"/>
-                                </div>
-                            </td>
-                        </tr>
-                        <tr>
                             <td>Bị đóng băng</td>
                             <td>
                                 <div class="effect">
@@ -270,14 +262,6 @@
                                 <div class="effect">
                                     <img class="hero-img" src="./images/effects/hero.png"/>
                                     <img class="effect-gif" src="./images/effects/Effect_111.gif"/>
-                                </div>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>Effect Passive - Hero 148 (Jingoo)</td>
-                            <td>
-                                <div class="effect">
-                                    <img class="hero-img" src="./images/effects/hero.png"/>
                                 </div>
                             </td>
                         </tr>
