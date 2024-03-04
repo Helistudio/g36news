@@ -439,7 +439,7 @@
                         </tr>
                         <tr>
                             <td>Đánh dấu bị nhận thêm sát thương từ tất cả các nguồn</td>
-                            <td><img src="./images/buff/97.png"/></td>
+                            <td><img src="./images/buff/10097.png"/></td>
                         </tr>
                         <tr>
                             <td>Tăng chỉ số phản sát thương</td>
