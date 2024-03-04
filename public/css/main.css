@@ -67,9 +67,26 @@ body {
     width: 80%;
 }
 
-.news-section .description h3 {
-    color: #b83e09;
-    font-size: 27px;
+.news-section .description .effect {
+    position: relative;
+}
+
+.news-section .description .effect img {
+    width: 100%;
+    margin: 0;
+}
+
+.news-section .description .effect img.effect-gif {
+    position: absolute;
+    top: 0;
+}
+
+.news-section .description .buff img {
+    
+}
+
+.news-section .description table.battle-intro td {
+    width: 150px;
 }
 
 .gacha-history-container  {

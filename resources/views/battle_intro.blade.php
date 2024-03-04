@@ -74,6 +74,390 @@
                             <li>Với các nhóm hiệu ứng đặc biệt như các loại ấn thì có thể cộng dồn tích lũy.</li>
                         </ul>
                     </div>
+                    <p>Hiệu ứng trên nhân vật 1</p>
+                    <table class="battle-intro">
+                        <tr>
+                            <td>Hồi  máu</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_3.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị choáng</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_50.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị câm lặng</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_51.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị thiêu đốt</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_52.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị chảy máu</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_53.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị trúng độc</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_54.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị hóa đá</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_60.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Hồi sinh</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị đóng băng</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_62.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương khi bị bạo kích</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_63.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Hồi máu theo lượt</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_65.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bị suy yếu</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_66.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Bất tử - không nhận bất kỳ sát thương nào trong thời gian hiệu ứng</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_70.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Chán nản khiến chiến binh bị giảm nộ cuối lượt</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_72.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Sợ hãi khiến chiến binh không thể đánh thường</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_73.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Khiên hấp thụ năng lượng</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_75.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Khiên phản lại sát thương</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_78.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu chiến binh sẽ được hồi sinh một lần trong trận</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_80.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Ru ngủ</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_82.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Cấm tăng nộ</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_91.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Hoảng loạn - Hiệu ứng kỹ năng bị động của Doraemon, chiến binh bị hoảng loạn sẽ tự đánh đồng minh</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_99.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Táo độc - Hiệu ứng kỹ năng bị động của công chúa Bạch Tuyết, chiến binh bị nhiễm độc sẽ bị giảm phòng thủ, giảm khả năng hồi máu từ tất cả các nguồn</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                    <img class="effect-gif" src="./images/effects/Effect_111.gif"/>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Effect Passive - Hero 148 (Jingoo)</td>
+                            <td>
+                                <div class="effect">
+                                    <img class="hero-img" src="./images/effects/hero.png"/>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <p>Hiệu ứng trên nhân vật 2</p>
+                    <table class="battle-intro buff">
+                        <tr>
+                            <td>Tăng chỉ số tấn công</td>
+                            <td><img src="./images/buff/1.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số tấn công</td>
+                            <td><img src="./images/buff/10001.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số phòng thủ</td>
+                            <td><img src="./images/buff/2.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số phòng thủ</td>
+                            <td><img src="./images/buff/10002.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số tốc độ</td>
+                            <td><img src="./images/buff/4.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số tốc độ</td>
+                            <td><img src="./images/buff/10004.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng sát thương kỹ năng</td>
+                            <td><img src="./images/buff/6.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm sát thương kỹ năng</td>
+                            <td><img src="./images/buff/10006.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số đánh chính xác</td>
+                            <td><img src="./images/buff/7.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số đánh chính xác</td>
+                            <td><img src="./images/buff/10007.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng tỷ lệ bạo kích</td>
+                            <td><img src="./images/buff/9.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm tỷ lệ bạo kích</td>
+                            <td><img src="./images/buff/10009.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng sát thương bạo kích</td>
+                            <td><img src="./images/buff/10.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm sát thương bạo kích</td>
+                            <td><img src="./images/buff/10010.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số xuyên giáp</td>
+                            <td><img src="./images/buff/11.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số xuyên giáp</td>
+                            <td><img src="./images/buff/10011.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số kháng hiệu ứng</td>
+                            <td><img src="./images/buff/12.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số kháng hiệu ứng</td>
+                            <td><img src="./images/buff/10012.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm sát thương nhận vào</td>
+                            <td><img src="./images/buff/13.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng sát thương nhận vào</td>
+                            <td><img src="./images/buff/10013.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số kháng bạo kích</td>
+                            <td><img src="./images/buff/16.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số kháng bạo kích</td>
+                            <td><img src="./images/buff/10016.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số né tránh</td>
+                            <td><img src="./images/buff/17.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm chỉ số né tránh</td>
+                            <td><img src="./images/buff/10017.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương nếu bị thiêu đốt (Bị trừ bởi giáp)</td>
+                            <td><img src="./images/buff/10055.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương nếu bị chảy máu (Bị trừ bởi giáp)</td>
+                            <td><img src="./images/buff/10056.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương nếu bị trúng độc (Bị trừ bởi giáp)</td>
+                            <td><img src="./images/buff/10057.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương nếu bị thiêu đốt (Không bị trừ bởi giáp)</td>
+                            <td><img src="./images/buff/10067.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương nếu bị chảy máu (Không bị trừ bởi giáp)</td>
+                            <td><img src="./images/buff/10068.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương nếu bị trúng độc (Không bị trừ bởi giáp)</td>
+                            <td><img src="./images/buff/10069.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu nhận thêm sát thương nếu bị hóa đá</td>
+                            <td><img src="./images/buff/10079.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng sát thương đầu ra</td>
+                            <td><img src="./images/buff/90.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Giảm sát thương đầu ra</td>
+                            <td><img src="./images/buff/10090.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu được tăng sát thương nếu đánh vào chiến binh hệ khoa học</td>
+                            <td><img src="./images/buff/92.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu được tăng sát thương nếu đánh vào chiến binh hệ pháp thuật</td>
+                            <td><img src="./images/buff/93.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu được tăng sát thương nếu đánh vào chiến binh hệ võ thuật</td>
+                            <td><img src="./images/buff/94.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu được tăng sát thương nếu đánh vào chiến binh hệ ánh sáng</td>
+                            <td><img src="./images/buff/95.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu được tăng sát thương nếu đánh vào chiến binh hệ bóng tối</td>
+                            <td><img src="./images/buff/96.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Đánh dấu bị nhận thêm sát thương từ tất cả các nguồn</td>
+                            <td><img src="./images/buff/97.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tăng chỉ số phản sát thương</td>
+                            <td><img src="./images/buff/98.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Hiệu ứng đòn đánh thường của Jinwoo, chiến binh bị đánh dấu sẽ nhận thêm sát thương sau mỗi lượt</td>
+                            <td><img src="./images/buff/10112.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Bị nguyền rủa - chiến binh bị nguyền rủa sẽ phải nhận thêm sát thương và không thể hồi nộ</td>
+                            <td><img src="./images/buff/10114.png"/></td>
+                        </tr>
+                        <tr>
+                            <td>Tấn công không thể trượt mục tiêu</td>
+                            <td><img src="./images/buff/115.png"/></td>
+                        </tr>
+                    </table>
                 </div>
                 <div class="tab-pane description fade" id="v-pills-4" role="tabpanel" >
                     <div>
