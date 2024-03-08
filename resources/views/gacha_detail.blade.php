@@ -9,16 +9,16 @@
                 </div>
                 <table>
                         <tr>
-                            <td class="primary-color">Chiến Binh R</td>
-                            <td>70%</td>
+                            <td class="primary-color">Chiến Binh SSR</td>
+                            <td>5%</td>
                         </tr>
                         <tr>
                             <td class="secondary-color">Chiến Binh SR</td>
                             <td>25%</td>
                         </tr>
                         <tr>
-                            <td class="third-color">Chiến Binh SSR</td>
-                            <td>5%</td>
+                            <td class="third-color">Chiến Binh R</td>
+                            <td>70%</td>
                         </tr>
                 </table>
             </div>
@@ -33,152 +33,220 @@
                             <td>Tỷ lệ</td>
                         </tr>
                             <tr>
-                                <td>Sona Wukong (R)</td>
-                                <td>10%</td>
+                                <td>Sona Wukong (R 3 sao)</td>
+                                <td>7.1%</td>
                             </tr>
                             <tr>
-                                <td>TR-009 Tager (R)</td>
-                                <td>10%</td>
+                                <td>TR-009 Tager (R 3 sao)</td>
+                                <td>7.1%</td>
                             </tr>
                             <tr>
-                                <td>Levi Ackerman (R)</td>
-                                <td>17%</td>
+                                <td>Levi Ackerman (R 3 sao)</td>
+                                <td>16%</td>
                             </tr>
                             <tr>
-                                <td>Yoruichi (R)</td>
-                                <td>17%</td>
+                                <td>Yoruichi (R 3 sao)</td>
+                                <td>16%</td>
                             </tr>
                             <tr>
-                                <td>Edward Eric (R)</td>
-                                <td>17%</td>
+                                <td>Edward Eric (R 3 sao)</td>
+                                <td>16%</td>
                             </tr>
                             <tr>
-                                <td>Killua Zoldyck (SR)</td>
-                                <td>1.73%</td>
+                                <td>Killua Zoldyck (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Mikasa (SR)</td>
-                                <td>1.73%</td>
+                                <td>Mikasa (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Lisbeth (SR)</td>
-                                <td>1.73%</td>
+                                <td>Lisbeth (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Portgas D.ace (SR)</td>
-                                <td>1.73%</td>
+                                <td>Portgas D.ace (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Shanks (SR)</td>
-                                <td>1.73%</td>
+                                <td>Shanks (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Hyuga hinata (SR)</td>
-                                <td>1.73%</td>
+                                <td>Hyuga hinata (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Ikaros (SR)</td>
-                                <td>1.73%</td>
+                                <td>Ikaros (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>2B (SR)</td>
-                                <td>1.73%</td>
+                                <td>2B (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Susanoo (SR)</td>
-                                <td>1.73%</td>
+                                <td>Susanoo (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Alex Mercer (SR)</td>
-                                <td>1.73%</td>
+                                <td>Alex Mercer (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Master Roshi (SR)</td>
-                                <td>1.73%</td>
+                                <td>Master Roshi (SR 4 sao)</td>
+                                <td>2%</td>
                             </tr>
                             <tr>
-                                <td>Eugeo (SR)</td>
-                                <td>1.2%</td>
+                                <td>Sailor Moon (SR 4 sao)</td>
+                                <td>1%</td>
                             </tr>
                             <tr>
-                                <td>Alice Zuberg (SR)</td>
-                                <td>1.2%</td>
+                                <td>Eugeo (SR 4 sao)</td>
+                                <td>1%</td>
                             </tr>
                             <tr>
-                                <td>Phoenix Ikki (SR)</td>
-                                <td>1.2%</td>
+                                <td>Alice Zuberg (SR 4 sao)</td>
+                                <td>1%</td>
                             </tr>
                             <tr>
-                                <td>Sebas Tian (SR)</td>
-                                <td>1.2%</td>
+                                <td>Phoenix Ikki (SR 4 sao)</td>
+                                <td>1%</td>
+                            </tr>
+                            <tr>
+                                <td>Sebas Tian (SR 4 sao)</td>
+                                <td>1%</td>
+                            </tr>
+                            <tr>
+                                <td>Killua Zoldyck (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Mikasa (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Lisbeth (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Portgas D.ace (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Shanks (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Hyuga hinata (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Ikaros (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>0.6B (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Susanoo (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Alex Mercer (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Master Roshi (SR 5 sao)</td>
+                                <td>0.6%</td>
+                            </tr>
+                            <tr>
+                                <td>Sailor Moon (SR 5 sao)</td>
+                                <td>0.4%</td>
+                            </tr>
+                            <tr>
+                                <td>Eugeo (SR 5 sao)</td>
+                                <td>0.3%</td>
+                            </tr>
+                            <tr>
+                                <td>Alice Zuberg (SR 5 sao)</td>
+                                <td>0.3%</td>
+                            </tr>
+                            <tr>
+                                <td>Phoenix Ikki (SR 5 sao)</td>
+                                <td>0.3%</td>
+                            </tr>
+                            <tr>
+                                <td>Sebas Tian (SR 5 sao)</td>
+                                <td>0.3%</td>
                             </tr>
                             <tr>
                                 <td>Kirito (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Hatsune Miku (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Angemon (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Jaganshi Hiei (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Black Star (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Lambda-11 (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Angewomon (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Mikasa Mikoto (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Akame (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Orochi (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Touch Me (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Saitama (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Kurosaki Ichigo (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Marisa Kirisame (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Rei Yanami (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Erza Scarlet (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Rem (SSR)</td>
-                                <td>0.24%</td>
+                                <td>0.1%</td>
                             </tr>
                             <tr>
                                 <td>Meliodas (SSR)</td>
