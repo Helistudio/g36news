@@ -221,7 +221,7 @@
                                 <td>0.1%</td>
                             </tr>
                             <tr>
-                                <td>Touch Me (SSR)</td>
+                                <td>Menethil (SSR)</td>
                                 <td>0.1%</td>
                             </tr>
                             <tr>
@@ -253,7 +253,7 @@
                                 <td>0.1%</td>
                             </tr>
                             <tr>
-                                <td>Rubedo (SSR)</td>
+                                <td>Ichigo Hollow (SSR)</td>
                                 <td>0.1%</td>
                             </tr>
                             <tr>
