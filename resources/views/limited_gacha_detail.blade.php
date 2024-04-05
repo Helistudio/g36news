@@ -17,7 +17,7 @@
                             <td>20%</td>
                         </tr>
                         <tr>
-                            <td>Mảnh tướng SSR theo thủ đề</td>
+                            <td>Mảnh tướng SSR theo chủ đề</td>
                             <td>14%</td>
                         </tr>
                         <tr>
