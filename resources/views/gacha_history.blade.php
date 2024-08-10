@@ -42,7 +42,7 @@
                     <?php endforeach;?>
                 </table>
             <?php else:?>
-                <div>Lịch sử triệu hồi rỗng</div>
+                <div>{{ __('messages.welcome') }}</div>
             <?php endif;?>
         </div>
         
