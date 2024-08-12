@@ -16,17 +16,17 @@
                     if(is_array($arrayBonus)) {
                         if(isset($arrayBonus[0]) && $arrayBonus[0] == 100) {
 
-                            $bonusItemType = "combatant";
+                            $bonusItemType = {{ __('messages.Lang126') }};
                             $bonusItemName = $heros[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 6) {
 
-                            $bonusItemType = "general piece";
+                            $bonusItemType = {{ __('messages.Lang127') }};
                             $bonusItemName = $heros[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 1) {
 
-                            $bonusItemType = "items";
+                            $bonusItemType = {{ __('messages.Lang128') }};
                             $bonusItemName = $itemShop[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 3) {
@@ -37,12 +37,12 @@
                     }
                     ?>
                 <tr>
-                    <td><span class="username">{{ $gh->screen_name }}</span> receive {{ $bonusItemType }}<span class="bonus"> {{ $bonusItemName }}</span></td>
+                    <td><span class="username">{{ $gh->screen_name }}</span> {{ __('messages.Lang129') }} {{ $bonusItemType }}<span class="bonus"> {{ $bonusItemName }}</span></td>
                 </tr>
                 <?php endforeach;?>
             </table>
             <?php else:?>
-            <div>{{ __('messages.welcome') }}</div>
+            <div>{{ __('messages.Lang125') }}</div>
             <?php endif;?>
         </div>
 
