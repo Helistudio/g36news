@@ -16,28 +16,28 @@
                     if(is_array($arrayBonus)) {
                         if(isset($arrayBonus[0]) && $arrayBonus[0] == 100) {
 
-                            $bonusItemType = "{{ __('messages.Lang126') }}";
+                            $bonusItemType = "126";
                             $bonusItemName = $heros[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 6) {
 
-                            $bonusItemType = "{{ __('messages.Lang127') }}";
+                            $bonusItemType = "127";
                             $bonusItemName = $heros[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 1) {
 
-                            $bonusItemType = "{{ __('messages.Lang128') }}";
+                            $bonusItemType = "128";
                             $bonusItemName = $itemShop[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 3) {
 
-                            $bonusItemType = "{{ __('messages.Lang128') }}";
+                            $bonusItemType = "128";
                             $bonusItemName = $itemData[$arrayBonus[1]] ?? '';
                         }
                     }
                     ?>
                 <tr>
-                    <td><span class="username">{{ $gh->screen_name }}</span> {{ __('messages.Lang129') }} {{ $bonusItemType }}<span class="bonus"> {{ $bonusItemName }}</span></td>
+                    <td><span class="username">{{ $gh->screen_name }}</span> {{ __('messages.Lang129') }} {{ __('messages.Lang'.$bonusItemType) }} <span class="bonus"> {{ $bonusItemName }}</span></td>
                 </tr>
                 <?php endforeach;?>
             </table>
