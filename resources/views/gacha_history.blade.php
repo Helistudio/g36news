@@ -16,22 +16,22 @@
                     if(is_array($arrayBonus)) {
                         if(isset($arrayBonus[0]) && $arrayBonus[0] == 100) {
 
-                            $bonusItemType = {{ __('messages.Lang126') }};
+                            $bonusItemType = '"'. {{ __('messages.Lang126') }} .'"';
                             $bonusItemName = $heros[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 6) {
 
-                            $bonusItemType = {{ __('messages.Lang127') }};
+                            $bonusItemType = '"'. {{ __('messages.Lang127') }} .'"';
                             $bonusItemName = $heros[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 1) {
 
-                            $bonusItemType = {{ __('messages.Lang128') }};
+                            $bonusItemType = '"'. {{ __('messages.Lang128') }} .'"';
                             $bonusItemName = $itemShop[$arrayBonus[1]] ?? '';
                         }
                         else if(isset($arrayBonus[0]) && $arrayBonus[0] == 3) {
 
-                            $bonusItemType = "items";
+                            $bonusItemType = '"'. {{ __('messages.Lang128') }} .'"';
                             $bonusItemName = $itemData[$arrayBonus[1]] ?? '';
                         }
                     }
