@@ -33,151 +33,151 @@
                             <td>Proportion</td>
                         </tr>
                         <tr>
-                            <td>Sona Wukong (R 3 sao)</td>
+                            <td>Sona Wukong (R 3 stars)</td>
                             <td>7.1%</td>
                         </tr>
                         <tr>
-                            <td>TR-009 Tager (R 3 sao)</td>
+                            <td>TR-009 Tager (R 3 stars)</td>
                             <td>7.1%</td>
                         </tr>
                         <tr>
-                            <td>Levi Ackerman (R 3 sao)</td>
+                            <td>Levi Ackerman (R 3 stars)</td>
                             <td>16%</td>
                         </tr>
                         <tr>
-                            <td>Yoruichi (R 3 sao)</td>
+                            <td>Yoruichi (R 3 stars)</td>
                             <td>16%</td>
                         </tr>
                         <tr>
-                            <td>Edward Eric (R 3 sao)</td>
+                            <td>Edward Eric (R 3 stars)</td>
                             <td>16%</td>
                         </tr>
                         <tr>
-                            <td>Killua Zoldyck (SR 4 sao)</td>
+                            <td>Killua Zoldyck (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Mikasa (SR 4 sao)</td>
+                            <td>Mikasa (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Lisbeth (SR 4 sao)</td>
+                            <td>Lisbeth (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Portgas D.ace (SR 4 sao)</td>
+                            <td>Portgas D.ace (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Shanks (SR 4 sao)</td>
+                            <td>Shanks (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Hyuga hinata (SR 4 sao)</td>
+                            <td>Hyuga hinata (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Ikaros (SR 4 sao)</td>
+                            <td>Ikaros (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>2B (SR 4 sao)</td>
+                            <td>2B (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Susanoo (SR 4 sao)</td>
+                            <td>Susanoo (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Alex Mercer (SR 4 sao)</td>
+                            <td>Alex Mercer (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Master Roshi (SR 4 sao)</td>
+                            <td>Master Roshi (SR 4 stars)</td>
                             <td>2%</td>
                         </tr>
                         <tr>
-                            <td>Sailor Moon (SR 4 sao)</td>
+                            <td>Sailor Moon (SR 4 stars)</td>
                             <td>1%</td>
                         </tr>
                         <tr>
-                            <td>Eugeo (SR 4 sao)</td>
+                            <td>Eugeo (SR 4 stars)</td>
                             <td>1%</td>
                         </tr>
                         <tr>
-                            <td>Alice Zuberg (SR 4 sao)</td>
+                            <td>Alice Zuberg (SR 4 stars)</td>
                             <td>1%</td>
                         </tr>
                         <tr>
-                            <td>Phoenix Ikki (SR 4 sao)</td>
+                            <td>Phoenix Ikki (SR 4 stars)</td>
                             <td>1%</td>
                         </tr>
                         <tr>
-                            <td>Sebas Tian (SR 4 sao)</td>
+                            <td>Sebas Tian (SR 4 stars)</td>
                             <td>1%</td>
                         </tr>
                         <tr>
-                            <td>Killua Zoldyck (SR 5 sao)</td>
+                            <td>Killua Zoldyck (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Mikasa (SR 5 sao)</td>
+                            <td>Mikasa (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Lisbeth (SR 5 sao)</td>
+                            <td>Lisbeth (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Portgas D.ace (SR 5 sao)</td>
+                            <td>Portgas D.ace (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Shanks (SR 5 sao)</td>
+                            <td>Shanks (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Hyuga hinata (SR 5 sao)</td>
+                            <td>Hyuga hinata (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Ikaros (SR 5 sao)</td>
+                            <td>Ikaros (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>0.6B (SR 5 sao)</td>
+                            <td>0.6B (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Susanoo (SR 5 sao)</td>
+                            <td>Susanoo (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Alex Mercer (SR 5 sao)</td>
+                            <td>Alex Mercer (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Master Roshi (SR 5 sao)</td>
+                            <td>Master Roshi (SR 5 stars)</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>Sailor Moon (SR 5 sao)</td>
+                            <td>Sailor Moon (SR 5 stars)</td>
                             <td>0.4%</td>
                         </tr>
                         <tr>
-                            <td>Eugeo (SR 5 sao)</td>
+                            <td>Eugeo (SR 5 stars)</td>
                             <td>0.3%</td>
                         </tr>
                         <tr>
-                            <td>Alice Zuberg (SR 5 sao)</td>
+                            <td>Alice Zuberg (SR 5 stars)</td>
                             <td>0.3%</td>
                         </tr>
                         <tr>
-                            <td>Phoenix Ikki (SR 5 sao)</td>
+                            <td>Phoenix Ikki (SR 5 stars)</td>
                             <td>0.3%</td>
                         </tr>
                         <tr>
-                            <td>Sebas Tian (SR 5 sao)</td>
+                            <td>Sebas Tian (SR 5 stars)</td>
                             <td>0.3%</td>
                         </tr>
                         <tr>
