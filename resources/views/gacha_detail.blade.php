@@ -9,11 +9,11 @@
                 </div>
                 <table>
                     <tr>
-                        <td class="primary-color">{{ __('messages.Lang123') }}</td>
+                        <td class="primary-color">{{ __('messages.Lang121') }} SSR</td>
                         <td>5%</td>
                     </tr>
                     <tr>
-                        <td class="secondary-color">{{ __('messages.Lang122') }}</td>
+                        <td class="secondary-color">{{ __('messages.Lang121') }} SR</td>
                         <td>25%</td>
                     </tr>
                     <tr>

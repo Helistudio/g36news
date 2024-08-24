@@ -125,8 +125,6 @@ return [
     "Lang119"=> "Tỷ lệ",
     "Lang120"=> "Chiêu mộ giới hạn",
     "Lang121"=> "Chiến Binh",
-    "Lang122"=> "Chiến Binh SR",
-    "Lang123"=> "Chiến Binh SSR",
     "Lang124"=> "Xác xuất loại",
     "Lang125"=> "Lịch sử triệu hồi rỗng",
     "Lang126"=> "chiến binh",
