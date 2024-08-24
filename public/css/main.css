@@ -170,7 +170,7 @@ body {
 
 .scroll-table {
     height: 250px;
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
 }
 
 .table-1 tbody tr td:nth-child(2),
