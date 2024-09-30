@@ -239,7 +239,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td>{{ __('messages.Lang55') }}r</td>
+                            <td>{{ __('messages.Lang55') }}</td>
                             <td>
                                 <div class="effect">
                                     <img class="hero-img" src="./images/effects/hero.png"/>

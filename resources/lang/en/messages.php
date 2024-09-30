@@ -62,7 +62,7 @@ return [
     "Lang56"=>"Panic - Doraemon's passive skill effect, panicked warriors will attack allies themselves",
     "Lang57"=>"Poisoned Apple - Passive skill effect of Princess Snow White, poisoned warriors will have reduced defense, reduced healing from all sources",
     "Lang58"=>"Effects on character 2",
-    "Lang59"=>"Increases attack stat<",
+    "Lang59"=>"Increases attack stat",
     "Lang60"=>"Reduced attack stats",
     "Lang61"=>"Increases defense stat",
     "Lang62"=>"Reduced defense stat",
