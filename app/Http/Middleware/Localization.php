@@ -16,6 +16,8 @@ class Localization
                 App::setLocale("en");
             } else if ($_GET['lang'] == "vi") {
                 App::setLocale("vi");
+            } else if ($_GET['lang'] == "th") {
+                App::setLocale("th");
             }
         }
         return $next($request);
