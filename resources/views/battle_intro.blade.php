@@ -13,7 +13,7 @@
             </div>
         </div>
         <div class="col-9">
-            <div class="tab-content" style="max-height: 150px; overflow-y: scroll;">
+            <div class="tab-content" style="max-height: 300px; overflow-y: scroll;">
                 <div class="tab-pane description fade show active" id="v-pills-0" role="tabpanel" >
                     <div>
                         <ul>
@@ -23,7 +23,7 @@
                             <li>{{ __('messages.Lang16') }}</li>
                             <li>{{ __('messages.Lang17') }}</li>
                             <li>{{ __('messages.Lang18') }}</li>
-                            <li>{{ __('messages.Lang19') }}< /li>
+                            <li>{{ __('messages.Lang19') }}</li>
                         </ul>
                     </div>
                 </div>
