@@ -13,7 +13,7 @@
             </div>
         </div>
         <div class="col-9">
-            <div class="tab-content">
+            <div class="tab-content" style="max-height: 150px; overflow-y: scroll;">
                 <div class="tab-pane description fade show active" id="v-pills-0" role="tabpanel" >
                     <div>
                         <ul>
