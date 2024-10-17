@@ -114,7 +114,7 @@ return [
         'game' => [
             'driver' => 'mysql',
             'url' => env('DATABASE_URL'),
-            'host' => env('DB_HOST', '127.0.0.1'),
+            'host' => env('DB_GAME_HOST', '127.0.0.1'),
             'port' => env('DB_PORT', '3306'),
             'database' => 'dson'.$server_id,
             'username' => env('DB_USERNAME_GAME', 'forge'),
@@ -143,7 +143,7 @@ return [
         'gamemain' => [
             'driver' => 'mysql',
             'url' => env('DATABASE_URL'),
-            'host' => env('DB_HOST', '127.0.0.1'),
+            'host' => env('DB_GAME_HOST', '127.0.0.1'),
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE_GAME_MAIN', 'forge'),
             'username' => env('DB_USERNAME_GAME_MAIN', 'forge'),
