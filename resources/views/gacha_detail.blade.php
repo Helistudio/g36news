@@ -145,7 +145,7 @@
                             <td>0.6%</td>
                         </tr>
                         <tr>
-                            <td>0.6B (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>2B (SR 5 {{ __('messages.Lang130') }})</td>
                             <td>0.6%</td>
                         </tr>
                         <tr>
