@@ -27,7 +27,7 @@
                                 } else if (isset($arrayBonus[0]) && $arrayBonus[0] == 1) {
 
                                     $bonusItemType = "128";
-                                    $bonusItemName =  {{ __('messages.itemLang'.$arrayBonus[1]) }} ?? '';
+                                    $bonusItemName =   __('messages.itemLang'.$arrayBonus[1])  ?? '';
                                 } else if (isset($arrayBonus[0]) && $arrayBonus[0] == 3) {
 
                                     $bonusItemType = "128";
