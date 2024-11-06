@@ -248,62 +248,43 @@
                             <td>Rem (SSR)</td>
                             <td>0.1%</td>
                         </tr>
-                        <tr class="primary-color">
-                            <td>Meliodas (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Ichigo Hollow (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Ainz Ooal Gown (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Hades (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Beerus (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Asuna (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Saber (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Songoku (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Athena (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Kakashi (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Ishtar (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Albedo (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Kenshiro (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-                        <tr class="primary-color">
-                            <td>Tanjiro (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Meliodas (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Ichigo Hollow (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Ainz Ooal Gown (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Hades (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Beerus (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Asuna (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Saber (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Songoku (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+{{--                        <tr class="primary-color">--}}
+{{--                            <td>Athena (SSR)</td>--}}
+{{--                            <td>0.1%</td>--}}
+{{--                        </tr>--}}
+
                     </table>
                     <div>
                     </div>
