@@ -19,6 +19,14 @@ body {
 .news-container {
     background-color: #CCCAC7;
 }
+
+.container-fluid {
+    background-image: url("../images/Gioithieu1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .news-section .title {
 
 }
@@ -27,6 +35,17 @@ body {
     position: fixed;
     width: 20%;
 } */
+
+a {
+    outline: none; /* Bỏ viền màu xanh trên các trình duyệt */
+    text-decoration: none; /* Bỏ gạch chân nếu cần */
+}
+
+a:focus,
+a:active {
+    outline: none; /* Loại bỏ đường viền màu xanh khi bấm */
+    color: inherit; /* Đảm bảo giữ màu văn bản hiện tại */
+}
 
 .news-section .nav-pills a {
     font-family: "EEI";
@@ -37,12 +56,25 @@ body {
     padding: 12px 20px;
     text-align: center;
 }
-.news-section .nav-pills .nav-link.active, 
-.news-section .nav-pills .show > .nav-link {
-    background-color: #FFCA51;
-    color: #242424;
-    border: solid 2px #242424;
+.nav-link{
+    margin-top: 10px;
 }
+
+.news-section .nav-pills .nav-link {
+    background-image: url("../images/button.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.news-section .nav-pills .nav-link.active,
+.news-section .nav-pills .show > .nav-link div{
+    background-image: url("../images/BT Cam.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+}
+
+
 
 .news-section .description {
     font-family: "SB";
@@ -82,7 +114,7 @@ body {
 }
 
 .news-section .description .buff img {
-    
+
 }
 
 .news-section .description table.battle-intro td {
