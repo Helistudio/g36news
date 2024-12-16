@@ -12,7 +12,7 @@
                 <a class="nav-link title" data-toggle="pill" href="#v-pills-5" role="tab">{{ __('messages.Lang6') }}</a>
             </div>
         </div>
-        <div class="col-9">
+        <div class="col-9 background_info">
             <div class="tab-content" style="max-height: 315px; overflow-y: scroll;">
                 <div class="tab-pane description fade show active" id="v-pills-0" role="tabpanel" >
                     <div>
