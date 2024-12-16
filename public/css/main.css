@@ -12,7 +12,10 @@
 }
 
 html, body {
-    background-color: transparent !important;
+    background-image: url("../images/Gioithieu1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
