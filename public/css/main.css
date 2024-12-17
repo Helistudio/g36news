@@ -52,7 +52,6 @@ a:active {
     padding: 12px 20px;
     text-align: center;
     min-height: 70px;
-    min-width: 200px;
 }
 .nav-link{
     margin-top: 10px;
@@ -68,7 +67,6 @@ a:active {
 
 .news-section .nav-pills .nav-link {
     min-height: 70px;
-    min-width: 200px;
     background-image: url("../images/button.png");
     background-repeat: no-repeat;
     background-position: center;
