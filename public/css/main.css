@@ -51,10 +51,12 @@ a:active {
     border-radius: 0;
     padding: 12px 20px;
     text-align: center;
+    min-height: 70px;
+    min-width: 200px;
 }
 .nav-link{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .background_info{
@@ -88,7 +90,6 @@ a:active {
 
 .news-section .description {
     font-family: "SB";
-    background-image: url("../images/Gioithieu2.png");
     background-repeat: no-repeat;
     background-position: center;
     background-color: transparent;
