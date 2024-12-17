@@ -1,10 +1,14 @@
 @extends("layouts.home")
-@section("body_class")news-container @endsection
+@section("body_class")
+    news-container
+@endsection
 @section("content")
     <div class="row news-section">
         <div class="col-3">
             <div class="nav flex-column nav-pills news-tab" role="tablist" aria-orientation="vertical">
-                <a class="nav-link title active" data-toggle="pill" href="#v-pills-0" role="tab"><div>{{ __('messages.Lang1') }}</div></a>
+                <a class="nav-link title active" data-toggle="pill" href="#v-pills-0" role="tab">
+                    <div>{{ __('messages.Lang1') }}</div>
+                </a>
                 <a class="nav-link title" data-toggle="pill" href="#v-pills-1" role="tab">{{ __('messages.Lang2') }}</a>
                 <a class="nav-link title " data-toggle="pill" href="#v-pills-2" role="tab">{{ __('messages.Lang3') }}</a>
                 <a class="nav-link title" data-toggle="pill" href="#v-pills-3" role="tab">{{ __('messages.Lang4') }}</a>
@@ -13,9 +17,9 @@
             </div>
         </div>
         <div class="col-9 background_info">
-            <div class="tab-content" style="max-height: 315px; overflow-y: scroll;">
-                <div class="tab-pane description fade show active" id="v-pills-0" role="tabpanel" >
-                    <div>
+            <div class="tab-content" style="max-height: 480px; overflow-y: scroll;">
+                <div class="tab-pane description fade show active" id="v-pills-0" role="tabpanel">
+                    <div class="info-battle">
                         <ul>
                             <li>{{ __('messages.Lang7') }}
                                 <img src="./images/intro_thu_tu_danh.png"/>
@@ -27,24 +31,27 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tab-pane description img-w-80 fade" id="v-pills-1" role="tabpanel" >
-                    <div>
+                <div class="tab-pane description img-w-80 fade" id="v-pills-1" role="tabpanel">
+                    <div class="info-battle">
                         <ul>
-                            <li><img src="./images/intro_muc_tieu_tan_cong_1.png"/>{{ __('messages.Lang20') }}</li>
                             <li>
-                                <img src="./images/intro_muc_tieu_tan_cong_2.png"/>
+                                <img style="min-width: 457px; min-height: 187px;" src="./images/intro_muc_tieu_tan_cong_1.png"/>
+                                {{ __('messages.Lang20') }}
+                            </li>
+                            <li>
+                                <img style="min-width: 469px; min-height: 185px;" src="./images/intro_muc_tieu_tan_cong_2.png"/>
                                 {{ __('messages.Lang21') }}
                             </li>
                             <li>
-                                <img src="./images/intro_muc_tieu_tan_cong_3.png"/>
+                                <img style="min-width: 478px; min-height: 211px;" src="./images/intro_muc_tieu_tan_cong_3.png"/>
                                 {{ __('messages.Lang22') }}
                             </li>
                             <li>{{ __('messages.Lang23') }}</li>
                         </ul>
                     </div>
                 </div>
-                <div class="tab-pane description img-w-80 fade" id="v-pills-2" role="tabpanel" >
-                    <div>
+                <div class="tab-pane description img-w-80 fade" id="v-pills-2" role="tabpanel">
+                    <div class="info-battle">
                         <ul>
                             <li>{{ __('messages.Lang24') }}<img src="./images/intro_tuyet_ky.png"/></li>
                             <li>{{ __('messages.Lang25') }}</li>
@@ -54,7 +61,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tab-pane description fade" id="v-pills-3" role="tabpanel" >
+                <div class="tab-pane description fade" id="v-pills-3" role="tabpanel">
                     <div>
                         <ul>
                             <li>{{ __('messages.Lang29') }}</li>
@@ -443,15 +450,15 @@
                         </tr>
                     </table>
                 </div>
-                <div class="tab-pane description fade" id="v-pills-4" role="tabpanel" >
-                    <div>
+                <div class="tab-pane description fade" id="v-pills-4" role="tabpanel">
+                    <div class="info-battle">
                         <ul>
                             <li>{{ __('messages.Lang102') }}</li>
                         </ul>
                     </div>
                 </div>
-                <div class="tab-pane description fade" id="v-pills-5" role="tabpanel" >
-                    <div>
+                <div class="tab-pane description fade" id="v-pills-5" role="tabpanel">
+                    <div class="info-battle">
                         <ul>
                             <li>
                                 {{ __('messages.Lang103') }}

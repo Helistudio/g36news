@@ -58,7 +58,7 @@ a:active {
 }
 
 .background_info{
-    background-image: url("../images/Gioithieu2.png");
+    background-color: #f3f1ec;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -98,8 +98,12 @@ a:active {
     min-height: 480px;
 }
 
+.news-section .description .info-battle{
+    min-height: 480px;
+}
+
 .news-section .description ul {
-    padding-left: 15px;
+    padding-left: 10px;
 }
 
 .news-section .description img {
@@ -109,9 +113,7 @@ a:active {
     margin: 15px auto;
 }
 
-.news-section .description.img-w-80 img {
-    width: 80%;
-}
+
 
 .news-section .description .effect {
     position: relative;
