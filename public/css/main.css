@@ -51,7 +51,8 @@ a:active {
     border-radius: 0;
     padding: 12px 20px;
     text-align: center;
-    min-height: 70px;
+    min-height: 60px;
+    min-width: 180px;
 }
 .nav-link{
     margin-top: 10px;
