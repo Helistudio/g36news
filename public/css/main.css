@@ -94,7 +94,8 @@ a:active {
     background-color: transparent;
     padding: 15px;
     font-size: 12px;
-    color: #242424
+    color: #242424;
+    min-height: 480px;
 }
 
 .news-section .description ul {
