@@ -51,8 +51,7 @@ a:active {
     border-radius: 0;
     padding: 12px 20px;
     text-align: center;
-    min-height: 60px;
-    min-width: 140px;
+
 }
 .nav-link{
     margin-top: 10px;
@@ -69,6 +68,7 @@ a:active {
 .news-section .nav-pills .nav-link {
     min-height: 70px;
     background-image: url("../images/button.png");
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -80,6 +80,7 @@ a:active {
 .news-section .nav-pills .nav-link.active,
 .news-section .nav-pills .show > .nav-link div{
     background-image: url("../images/BT Cam.png");
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-color: transparent;
