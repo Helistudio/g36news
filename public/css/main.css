@@ -224,3 +224,77 @@ a:active {
 .table-2 tbody tr td:nth-child(2) {
     text-align: right;
 }
+
+.image-container {
+    position: relative;
+    width: 100%; /* Chiều rộng của ảnh */
+}
+.image-container img {
+    height: auto;
+    margin: 15px auto;
+}
+
+.custom_text {
+    position: absolute;
+    top: 2%;
+    left: 44%;
+    color: black;
+    font-size: 13px;
+}
+
+.custom_text_blood {
+    position: absolute;
+    top: 21%;
+    left: 53%;
+    color: #159e0e;
+    font-size: 13px;
+}
+
+.custom_text_energy {
+    position: absolute;
+    top: 34%;
+    left: 53%;
+    color: #dfbd21;
+    font-size: 13px;
+}
+
+.custom_text_he_1 {
+    position: absolute;
+    top: -4%;
+    left: 306px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 20px;
+}
+.custom_text_he_2 {
+    position: absolute;
+    top: 66%;
+    left: 217px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 20px;
+}
+.custom_text_he_3 {
+    position: absolute;
+    top: 66%;
+    left: 407px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 20px;
+}
+.custom_text_he_4 {
+    position: absolute;
+    top: 97%;
+    left: 219px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 20px;
+}
+.custom_text_he_5 {
+    position: absolute;
+    top: 97%;
+    left: 394px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 20px;
+}

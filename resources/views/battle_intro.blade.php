@@ -35,8 +35,10 @@
                     <div class="info-battle">
                         <ul>
                             <li>
-                                <img style="min-width: 457px; min-height: 187px;" src="./images/intro_muc_tieu_tan_cong_1.png"/>
-                                {{ __('messages.Lang20') }}
+                                <div class="image-container">
+                                    <img style="min-width: 457px; min-height: 187px;" src="./images/intro_muc_tieu_tan_cong_1.png"/>
+                                    {{ __('messages.Lang20') }}<p class="custom_text">{{__('messages.introLang1')}}</p>
+                                </div>
                             </li>
                             <li>
                                 <img style="min-width: 469px; min-height: 185px;" src="./images/intro_muc_tieu_tan_cong_2.png"/>
@@ -53,7 +55,14 @@
                 <div class="tab-pane description img-w-80 fade" id="v-pills-2" role="tabpanel">
                     <div class="info-battle">
                         <ul>
-                            <li>{{ __('messages.Lang24') }}<img src="./images/intro_tuyet_ky.png"/></li>
+                            <li>
+                                <div class="image-container">
+                                    {{ __('messages.Lang24') }}
+                                    <img src="./images/intro_tuyet_ky.png"/>
+                                    <p class="custom_text_blood">{{__('messages.introLang2')}}</p>
+                                    <p class="custom_text_energy">{{__('messages.introLang3')}}</p>
+                                </div>
+                            </li>
                             <li>{{ __('messages.Lang25') }}</li>
                             <li>{{ __('messages.Lang26') }}</li>
                             <li>{{ __('messages.Lang27') }}</li>
@@ -462,7 +471,24 @@
                         <ul>
                             <li>
                                 {{ __('messages.Lang103') }}
-                                <img src="./images/intro_he.png"/>
+                                <div class="image-container">
+                                    <img src="./images/intro_he.png"/>
+                                    <p class="custom_text_he_1">
+                                        {{ __('messages.introHeLang1') }}
+                                    </p>
+                                    <p class="custom_text_he_2">
+                                        {{ __('messages.introHeLang2') }}
+                                    </p>
+                                    <p class="custom_text_he_3">
+                                        {{ __('messages.introHeLang3') }}
+                                    </p>
+                                    <p class="custom_text_he_4">
+                                        {{ __('messages.introHeLang4') }}
+                                    </p>
+                                    <p class="custom_text_he_5">
+                                        {{ __('messages.introHeLang5') }}
+                                    </p>
+                                </div>
                             </li>
                         </ul>
                     </div>

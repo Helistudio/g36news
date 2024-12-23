@@ -802,7 +802,14 @@ return [
     "itemLang30014" => "Rương chọn tướng SSR (5 chọn 1)",
 
 
+    "introLang1" => "Thứ tự tấn công",
+    "introLang2" => "Thanh máu",
+    "introLang3" => "Thanh năng lượng",
 
-
+    "introHeLang1" => "Mưu lược",
+    "introHeLang2" => "Dũng giả",
+    "introHeLang3" => "Tự do",
+    "introHeLang4" => "Thần lực",
+    "introHeLang5" => "Hắc thuật",
 
 ];

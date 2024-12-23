@@ -802,6 +802,9 @@ return [
     "itemLang30013" => "SSR 5 Choose 1 Chest",
     "itemLang30014" => "SSR 5 Choose 1 Chest",
 
+    "introLang1" => "Order of attack",
+    "introLang2" => "Blood bar",
+    "introLang3" => "Energy bar",
 
 
 ];

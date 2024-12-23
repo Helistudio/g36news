@@ -803,5 +803,8 @@ return [
     'itemLang30013' => 'กล่องนักรบ SSR (5 เลือก 1)',
     'itemLang30014' => 'กล่องเลือกแชมป์เปี้ยน SSR (5 เลือก 1)',
 
+    "introLang1" => "Order of attack",
+    "introLang2" => "Thanh máu",
+    "introLang3" => "Thanh năng lượng",
 
 ];
