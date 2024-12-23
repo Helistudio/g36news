@@ -32,6 +32,19 @@
 
 <script src="{{ asset('assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js') }}"></script>
 <script src="{{ asset('assets/libs/bootstrap/dist/js/bootstrap.min.js') }}"></script>
+<script>
+    function showDimensions() {
+        const width = $(window).width();
+        const height = $(window).height();
+        $('#dimensions').text(`Width: ${width}px, Height: ${height}px`);
+    }
+
+    // Initial call
+    showDimensions();
+
+    // Update dimensions on window resize
+    $(window).resize(showDimensions);
+</script>
 </body>
 </html>
 
