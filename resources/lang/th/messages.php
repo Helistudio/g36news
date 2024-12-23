@@ -807,4 +807,10 @@ return [
     "introLang2" => "Thanh máu",
     "introLang3" => "Thanh năng lượng",
 
+    "introHeLang1" => "Mưu lược",
+    "introHeLang2" => "Dũng giả",
+    "introHeLang3" => "Tự do",
+    "introHeLang4" => "Thần lực",
+    "introHeLang5" => "Hắc thuật",
+
 ];

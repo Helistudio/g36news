@@ -806,5 +806,11 @@ return [
     "introLang2" => "Blood bar",
     "introLang3" => "Energy bar",
 
+    "introHeLang1" => "Mưu lược",
+    "introHeLang2" => "Dũng giả",
+    "introHeLang3" => "Tự do",
+    "introHeLang4" => "Thần lực",
+    "introHeLang5" => "Hắc thuật",
+
 
 ];
