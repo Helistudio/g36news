@@ -36,8 +36,8 @@
                     <div class="info-battle">
                         <ul>
                             <li>
-                                <div class="image-container">
-                                    <img style="min-width: 457px; min-height: 187px;" src="./images/intro_muc_tieu_tan_cong_1.png"/>
+                                <div class="image-container" style="position: relative; width: 100%; /* Chiều rộng của ảnh */">
+                                    <img style="min-width: 457px; min-height: 187px;  height: auto; margin: 15px auto;" src="./images/intro_muc_tieu_tan_cong_1.png"/>
                                     {{ __('messages.Lang20') }}<p class="custom_text" style=" position: absolute; top: 2%; left: 36%; color: black; font-size: 13px;">{{__('messages.introLang1')}}</p>
                                 </div>
                             </li>
@@ -57,9 +57,9 @@
                     <div class="info-battle">
                         <ul>
                             <li>
-                                <div class="image-container">
+                                <div class="image-container" style="position: relative; width: 100%; /* Chiều rộng của ảnh */">
                                     {{ __('messages.Lang24') }}
-                                    <img src="./images/intro_tuyet_ky.png"/>
+                                    <img style="height: auto; margin: 15px auto;" src="./images/intro_tuyet_ky.png"/>
                                     <p class="custom_text_blood" style="position: absolute; top: 21%; left: 56%; color: #159e0e; font-size: 13px;">{{__('messages.introLang2')}}</p>
                                     <p class="custom_text_energy" style="position: absolute; top: 34%; left: 56%; color: #dfbd21; font-size: 13px;">{{__('messages.introLang3')}}</p>
                                 </div>
@@ -472,8 +472,8 @@
                         <ul>
                             <li>
                                 {{ __('messages.Lang103') }}
-                                <div class="image-container">
-                                    <img src="./images/intro_he.png"/>
+                                <div class="image-container" style="position: relative; width: 100%; /* Chiều rộng của ảnh */">
+                                    <img style="  height: auto; margin: 15px auto;" src="./images/intro_he.png"/>
                                     <p class="custom_text_he_1" style="position: absolute; top: -4%; left: 44%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;">
                                         {{ __('messages.introHeLang1') }}
                                     </p>
