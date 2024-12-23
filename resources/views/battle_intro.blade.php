@@ -473,7 +473,7 @@
                             <li>
                                 {{ __('messages.Lang103') }}
                                 <div class="image-container" style="position: relative; width: 100%; /* Chiều rộng của ảnh */">
-                                    <img style="  height: auto; margin: 15px auto;" src="./images/intro_he.png"/>
+                                    <img style="  height: auto; margin: 15px auto;" src="./images/intro_he_1.png"/>
                                     <p class="custom_text_he_1" style="position: absolute; top: -4%; left: 44%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;">
                                         {{ __('messages.introHeLang1') }}
                                     </p>
