@@ -28,6 +28,7 @@
                             <li>{{ __('messages.Lang17') }}</li>
                             <li>{{ __('messages.Lang18') }}</li>
                             <li>{{ __('messages.Lang19') }}</li>
+                            <li><p id="css-output"></p></li>
                         </ul>
                     </div>
                 </div>
