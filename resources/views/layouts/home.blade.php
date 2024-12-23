@@ -36,8 +36,8 @@
     function showDimensions() {
         const width = $(window).width();
         const height = $(window).height();
-        $('#dimensions').text(`Width: ${width}px, Height: ${height}px`)
-        console.log('Width: '+width+'px, Height: '+height+'px');
+        // $('#dimensions').text(`Width: ${width}px, Height: ${height}px`)
+        alert('Width: '+width+'px, Height: '+height+'px');
     }
 
     // Initial call
