@@ -812,5 +812,11 @@ return [
     "introHeLang4" => "Godforce",
     "introHeLang5" => "Dark Arts",
 
+    "introHeCSSLang1" => "position: absolute; top: -4%; left: 42%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang2" => "position: absolute; top: 66%; left: 24%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang3" => "position: absolute; top: 66%; left: 62%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang4" => "position: absolute; top: 97%; left: 27%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang5" => "position: absolute; top: 97%; left: 62%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+
 
 ];

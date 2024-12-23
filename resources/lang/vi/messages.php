@@ -812,4 +812,10 @@ return [
     "introHeLang4" => "Thần lực",
     "introHeLang5" => "Hắc thuật",
 
+    "introHeCSSLang1" => "position: absolute; top: -4%; left: 44%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang2" => "position: absolute; top: 66%; left: 27%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang3" => "position: absolute; top: 66%; left: 63%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang4" => "position: absolute; top: 97%; left: 27%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+    "introHeCSSLang5" => "position: absolute; top: 97%; left: 61%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;",
+
 ];

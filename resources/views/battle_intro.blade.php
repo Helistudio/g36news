@@ -474,19 +474,19 @@
                                 {{ __('messages.Lang103') }}
                                 <div class="image-container" style="position: relative; width: 100%; /* Chiều rộng của ảnh */">
                                     <img style="  height: auto; margin: 15px auto;" src="./images/intro_he_1.png"/>
-                                    <p class="custom_text_he_1" style="position: absolute; top: -4%; left: 44%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;">
+                                    <p class="custom_text_he_1" style="{{__('messages.introHeCSSLang1')}}">
                                         {{ __('messages.introHeLang1') }}
                                     </p>
-                                    <p class="custom_text_he_2" style="position: absolute; top: 66%; left: 27%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;">
+                                    <p class="custom_text_he_2" style="{{__('messages.introHeCSSLang2')}}">
                                         {{ __('messages.introHeLang2') }}
                                     </p>
-                                    <p class="custom_text_he_3" style="position: absolute; top: 66%; left: 63%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;">
+                                    <p class="custom_text_he_3" style="{{__('messages.introHeCSSLang3')}}">
                                         {{ __('messages.introHeLang3') }}
                                     </p>
-                                    <p class="custom_text_he_4" style="position: absolute; top: 97%; left: 27%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;">
+                                    <p class="custom_text_he_4" style="{{__('messages.introHeCSSLang4')}}">
                                         {{ __('messages.introHeLang4') }}
                                     </p>
-                                    <p class="custom_text_he_5" style="position: absolute; top: 97%; left: 61%; color: white; -webkit-text-stroke: 1px black; font-size: 20px;">
+                                    <p class="custom_text_he_5" style="{{__('messages.introHeCSSLang5')}}">
                                         {{ __('messages.introHeLang5') }}
                                     </p>
                                 </div>
