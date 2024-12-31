@@ -4,8 +4,8 @@
 @endsection
 @section("content")
     <div class="row news-section">
-        <div class="col-3">
-            <div class="nav flex-column nav-pills news-tab" role="tablist" aria-orientation="vertical">
+        <div class="col-3 hidden-scroll" style="max-height: 375px; overflow-y: scroll;">
+            <div class="nav flex-column nav-pills news-tab" role="tablist" aria-orientation="vertical" >
                 <a class="nav-link title active" data-toggle="pill" href="#v-pills-0" role="tab">
                     <div>{{ __('messages.Lang1') }}</div>
                 </a>
@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="col-9 background_info">
-            <div class="tab-content" style="max-height: 480px; overflow-y: scroll;">
+            <div class="tab-content hidden-scroll" style="max-height: 375px; overflow-y: scroll;">
                 <div class="tab-pane description fade show active" id="v-pills-0" role="tabpanel">
                     <div class="info-battle">
                         <ul>
