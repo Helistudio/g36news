@@ -27,11 +27,21 @@ class NewsController extends Controller
             $userId = $request->input('uid');
         }
 
-        $gacha_history = DB::connection('game')->table('user_gacha_history as ugh')
-        ->where('ugh.user_id', $userId)
-        ->orderBy('ugh.id', 'desc')
-        ->limit(50)
-        ->get();
+        if ($request->input('sid') == 991){
+            $gacha_history = DB::connection('gameG36')->table('user_gacha_history as ugh')
+                ->where('ugh.user_id', $userId)
+                ->orderBy('ugh.id', 'desc')
+                ->limit(50)
+                ->get();
+        } else {
+            $gacha_history = DB::connection('game')->table('user_gacha_history as ugh')
+                ->where('ugh.user_id', $userId)
+                ->orderBy('ugh.id', 'desc')
+                ->limit(50)
+                ->get();
+        }
+
+
 
         $heros = json_decode(Redis::connection()->client()->get('webview_heros'));
         if($heros == null) {
