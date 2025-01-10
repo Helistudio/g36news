@@ -11,15 +11,16 @@
                     <?php
                         $bonusItemType = "";
                         $bonusItemName = "";
+                        $bonusStyle = "";
                         foreach ($gacha_history as $index => $gh):
                             $bonus = str_replace("[", "", $gh->bonus);
                             $bonus = str_replace("]", "", $bonus);
                             $arrayBonus = explode(",", $bonus);
                             if (is_array($arrayBonus)) {
                                 if (isset($arrayBonus[0]) && $arrayBonus[0] == 100) {
-
                                     $bonusItemType = "126";
                                     $bonusItemName = $heros[$arrayBonus[1]] ?? '';
+                                    $bonusStyle = $arrayBonus[2] ?? '';
                                 } else if (isset($arrayBonus[0]) && $arrayBonus[0] == 6) {
 
                                     $bonusItemType = "127";
@@ -36,7 +37,7 @@
                         }
                     ?>
                 <tr>
-                    <td><span class="username">{{ $gh->screen_name }}</span> {{ __('messages.Lang129') }} {{ __('messages.Lang'.$bonusItemType) }} <span class="bonus"> {{ $bonusItemName }}</span></td>
+                    <td><span class="username">{{ $gh->screen_name }}</span> {{ __('messages.Lang129') }} {{ __('messages.Lang'.$bonusItemType) }} <span class="bonus{{$bonusStyle}}"> {{ $bonusItemName }}</span></td>
                 </tr>
                 <?php endforeach; ?>
             </table>

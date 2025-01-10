@@ -30,7 +30,7 @@ class NewsController extends Controller
         $gacha_history = DB::connection('game')->table('user_gacha_history as ugh')
         ->where('ugh.user_id', $userId)
         ->orderBy('ugh.id', 'desc')
-        ->limit(20)
+        ->limit(50)
         ->get();
 
         $heros = json_decode(Redis::connection()->client()->get('webview_heros'));

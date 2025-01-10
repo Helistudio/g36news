@@ -169,6 +169,18 @@ a:active {
     color: #E1882C;
 }
 
+.gacha-history-container table tr td .bonus3 {
+    color: #805bb4;
+}
+
+.gacha-history-container table tr td .bonus4 {
+    color: #f8c067;
+}
+
+.gacha-history-container table tr td .bonus5 {
+    color: #ff2e2e;
+}
+
 .title-wrapper {
     text-align: center;
 }
