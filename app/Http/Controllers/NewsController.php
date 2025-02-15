@@ -27,7 +27,7 @@ class NewsController extends Controller
             $userId = $request->input('uid');
         }
 
-        if ($request->input('sid') == 991){
+        if ($request->input('sid') >= 991 && $request->input('sid') <= 1000){
             $gacha_history = DB::connection('gameG36')->table('user_gacha_history as ugh')
                 ->where('ugh.user_id', $userId)
                 ->orderBy('ugh.id', 'desc')
