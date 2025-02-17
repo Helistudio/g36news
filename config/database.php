@@ -19,7 +19,6 @@ use Illuminate\Support\Str;
  } else {
      $server_id = 1;
  }
-$server_id = '';
 
 
 return [
@@ -338,6 +337,6 @@ return [
         ],
 
     ],
-    
+
 
 ];
