@@ -8,6 +8,8 @@ use Illuminate\Support\Str;
  $dson4 = [4,8,12,16,20,24,28,32,36,40,44,48,52,56,60,64,68,72,76,80,84,88,92,96,100];
   if ($_GET['sid'] == 99999){
       $server_id = 0;
+  } if ($_GET['sid'] >= 990 && $_GET['sid'] <= 1000){
+      $server_id = '_g36';
   } elseif (in_array($_GET['sid'], $dson1)){
      $server_id = 1;
  } elseif (in_array($_GET['sid'], $dson2)){
