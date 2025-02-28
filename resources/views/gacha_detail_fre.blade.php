@@ -33,39 +33,31 @@
                             <td>{{ __('messages.Lang119') }}</td>
                         </tr>
                         <tr class="third-color">
-                            <td>Sona Wukong (R 3 {{ __('messages.Lang130') }})</td>
-                            <td>7.1%</td>
+                            <td>Edward Eric (R 3 {{ __('messages.Lang130') }})</td>
+                            <td>15%</td>
                         </tr>
                         <tr class="third-color">
-                            <td>TR-009 Tager (R 3 {{ __('messages.Lang130') }})</td>
-                            <td>7.1%</td>
-                        </tr>
-                        <tr class="third-color">
-                            <td>Levi Ackerman (R 3 {{ __('messages.Lang130') }})</td>
-                            <td>16%</td>
+                            <td>Koby (R 3 {{ __('messages.Lang130') }})</td>
+                            <td>15%</td>
                         </tr>
                         <tr class="third-color">
                             <td>Yoruichi (R 3 {{ __('messages.Lang130') }})</td>
-                            <td>16%</td>
+                            <td>15%</td>
                         </tr>
                         <tr class="third-color">
-                            <td>Edward Eric (R 3 {{ __('messages.Lang130') }})</td>
-                            <td>16%</td>
+                            <td>Sona wukong (R 3 {{ __('messages.Lang130') }})</td>
+                            <td>7%</td>
+                        </tr>
+                        <tr class="third-color">
+                            <td>TR-0009 Targer (R 3 {{ __('messages.Lang130') }})</td>
+                            <td>7%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Killua Zoldyck (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Alex Mercer (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Mikasa (SR 4 {{ __('messages.Lang130') }})</td>
-                            <td>2%</td>
-                        </tr>
-                        <tr class="secondary-color">
-                            <td>Lisbeth (SR 4 {{ __('messages.Lang130') }})</td>
-                            <td>2%</td>
-                        </tr>
-                        <tr class="secondary-color">
-                            <td>Portgas D.ace (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Portgas D.Ace (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
@@ -73,11 +65,15 @@
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Hyuga hinata (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Ikaros (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Ikaros (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Lisbeth (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>2%</td>
+                        </tr>
+                        <tr class="secondary-color">
+                            <td>Killua Zoldyck (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
@@ -85,11 +81,15 @@
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Susanoo (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Sebas Tian (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Alex Mercer (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Hyuga Hinata (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>2%</td>
+                        </tr>
+                        <tr class="secondary-color">
+                            <td>Mikasa (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>2%</td>
                         </tr>
                         <tr class="secondary-color">
@@ -101,11 +101,11 @@
                             <td>1%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Eugeo (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Alice Zuberg (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>1%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Alice Zuberg (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Eugeo (SR 4 {{ __('messages.Lang130') }})</td>
                             <td>1%</td>
                         </tr>
                         <tr class="secondary-color">
@@ -113,52 +113,52 @@
                             <td>1%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Sebas Tian (SR 4 {{ __('messages.Lang130') }})</td>
+                            <td>Susanoo(SR 4 {{ __('messages.Lang130') }})</td>
                             <td>1%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Killua Zoldyck (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>Alex Mercer (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Mikasa (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
-                        </tr>
-                        <tr class="secondary-color">
-                            <td>Lisbeth (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
-                        </tr>
-                        <tr class="secondary-color">
-                            <td>Portgas D.ace (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>Portgas D.Ace (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
                             <td>Shanks (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
-                        </tr>
-                        <tr class="secondary-color">
-                            <td>Hyuga hinata (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
                             <td>Ikaros (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>0.8%</td>
+                        </tr>
+                        <tr class="secondary-color">
+                            <td>Lisbeth (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.8%</td>
+                        </tr>
+                        <tr class="secondary-color">
+                            <td>Killua Zoldyck(SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
                             <td>2B (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Susanoo (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>Sebas Tian (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Alex Mercer (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>Hyuga Hinata (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.8%</td>
+                        </tr>
+                        <tr class="secondary-color">
+                            <td>Mikasa (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
                             <td>Master Roshi (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.6%</td>
+                            <td>0.8%</td>
                         </tr>
                         <tr class="secondary-color">
                             <td>Sailor Moon (SR 5 {{ __('messages.Lang130') }})</td>
@@ -166,124 +166,88 @@
                         </tr>
                         <tr class="secondary-color">
                             <td>Eugeo (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.3%</td>
+                            <td>0.4%</td>
                         </tr>
                         <tr class="secondary-color">
                             <td>Alice Zuberg (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.3%</td>
+                            <td>0.4%</td>
                         </tr>
                         <tr class="secondary-color">
                             <td>Phoenix Ikki (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.3%</td>
+                            <td>0.4%</td>
                         </tr>
                         <tr class="secondary-color">
-                            <td>Sebas Tian (SR 5 {{ __('messages.Lang130') }})</td>
-                            <td>0.3%</td>
+                            <td>Susanoo (SR 5 {{ __('messages.Lang130') }})</td>
+                            <td>0.4%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Kirito (SSR)</td>
+                            <td>Nico Robin (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Hatsune Miku (SSR)</td>
+                            <td>Aokiji (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Angemon (SSR)</td>
+                            <td>Zoro Wano (SSR)</td>
+                            <td>0.1</td>
+                        </tr>
+                        <tr class="primary-color">
+                            <td>Sanji G66 (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Jaganshi Hiei (SSR)</td>
+                            <td>Kuma (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Black Star (SSR)</td>
+                            <td>Chopper (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Lambda-11 (SSR)</td>
+                            <td>Marco (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Angewomon (SSR)</td>
+                            <td>Nami New World (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Mikasa Mikoto (SSR)</td>
+                            <td>Magellan (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Akame (SSR)</td>
+                            <td>Law (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Orochi (SSR)</td>
+                            <td>Sengoku (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Menethil (SSR)</td>
+                            <td>Boa Hancock (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Saitama (SSR)</td>
+                            <td>Enel (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Kurosaki Ichigo (SSR)</td>
+                            <td>Kid (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Marisa Kirisame (SSR)</td>
+                            <td>BigMom (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Rei Yanami (SSR)</td>
+                            <td>Jozu (SSR)</td>
                             <td>0.1%</td>
                         </tr>
                         <tr class="primary-color">
-                            <td>Erza Scarlet (SSR)</td>
+                            <td>Perona (SSR)</td>
                             <td>0.1%</td>
                         </tr>
-                        <tr class="primary-color">
-                            <td>Rem (SSR)</td>
-                            <td>0.1%</td>
-                        </tr>
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Meliodas (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Ichigo Hollow (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Ainz Ooal Gown (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Hades (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Beerus (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Asuna (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Saber (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Songoku (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
-{{--                        <tr class="primary-color">--}}
-{{--                            <td>Athena (SSR)</td>--}}
-{{--                            <td>0.1%</td>--}}
-{{--                        </tr>--}}
 
                     </table>
                     <div>
