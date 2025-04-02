@@ -106,7 +106,7 @@ return [
     "Lang100"=> "Bị nguyền rủa - chiến binh bị nguyền rủa sẽ phải nhận thêm sát thương và không thể hồi nộ",
     "Lang101"=> "Tấn công không thể trượt mục tiêu",
     "Lang102"=> "Mỗi hiệp đấu được tính kết thúc khi tất cả Chiến binh của phe ta và phe địch kết thúc toàn bộ lượt hành động của mình.",
-    "Lang103"=> "Trong trò chơi có tổng cộng 5 hệ: Dũng giả, Tự do, Mưu lược, Thần lực, Hắc thuật, các Chiến binh khi tấn công nhau sẽ được tăng sát thương hoặc giảm sát thương.",
+    "Lang103"=> "Có 5 hệ trong đó:<br> - Tự do, Dũng giả, Mưu lược có mối quan hệ khắc chế nhau theo chiều mũi tên. Hệ khắc chế sẽ tăng 25% sát thương lên hệ bị khắc chế. Ngược lại, hệ bị khắc chế sẽ bị giảm 25% sát thương lên hệ khắc chế.<br>  - Thần lực và Hắc thuật gây thêm 25% sát thương khi đối đầu với nhau",
     "Lang104"=> "Xác xuất loại",
     "Lang105"=> "Tướng R theo hệ tướng chủ đề",
     "Lang106"=> "Tướng SR theo hệ tướng chủ đề",

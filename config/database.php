@@ -2,25 +2,30 @@
 
 use Illuminate\Support\Str;
 
- $dson1 = [1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93,97];
- $dson2 = [2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,78,82,86,90,94,98];
- $dson3 = [3,7,11,15,19,23,27,31,35,39,43,47,51,55,59,63,67,71,75,79,83,87,91,95,99];
- $dson4 = [4,8,12,16,20,24,28,32,36,40,44,48,52,56,60,64,68,72,76,80,84,88,92,96,100];
-  if ($_GET['sid'] == 99999){
-      $server_id = 0;
-  } if ($_GET['sid'] >= 990 && $_GET['sid'] <= 1000){
-      $server_id = '_g36';
-  } elseif (in_array($_GET['sid'], $dson1)){
-     $server_id = 1;
- } elseif (in_array($_GET['sid'], $dson2)){
-     $server_id = 2;
- } elseif (in_array($_GET['sid'], $dson3)){
-     $server_id = 3;
- } elseif (in_array($_GET['sid'], $dson4)){
-     $server_id = 4;
- } else {
-     $server_id = 1;
- }
+$id_dson = intval($_GET['sid']) % 4;
+
+if ($_GET['sid'] == 99999){
+    $server_id = 0;
+} else if (intval($_GET['sid']) > 990 && intval($_GET['sid']) < 1000){
+    $server_id = 'dev';
+} else if (intval($_GET['sid']) > 90 && intval($_GET['sid']) < 100){
+    $server_id = '';
+} else {
+    switch ($id_dson){
+        case 1:
+            $server_id = 1;
+            break;
+        case 2:
+            $server_id = 2;
+            break;
+        case 3:
+            $server_id = 3;
+            break;
+        case 0:
+            $server_id = 4;
+            break;
+    }
+}
 
 
 return [
