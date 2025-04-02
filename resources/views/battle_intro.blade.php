@@ -471,8 +471,8 @@
                     <div class="info-battle">
                         <ul>
                             <li>
-                                {{ __('messages.Lang103') }}
-                                {{ __('messages.Lang131') }}
+                                {{ __('messages.Lang103') }}<br>
+                                {{ __('messages.Lang131') }}<br>
                                 {{ __('messages.Lang132') }}
                                 <div class="image-container" style="position: relative; width: 100%; /* Chiều rộng của ảnh */">
                                     <img style="  height: auto; margin: 15px auto;" src="./images/intro_he_1.png"/>
