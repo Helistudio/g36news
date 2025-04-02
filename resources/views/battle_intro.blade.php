@@ -464,6 +464,8 @@
                     <div class="info-battle">
                         <ul>
                             <li>{{ __('messages.Lang102') }}</li>
+                            <li>{{ __('messages.Lang131') }}</li>
+                            <li>{{ __('messages.Lang132') }}</li>
                         </ul>
                     </div>
                 </div>
