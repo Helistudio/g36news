@@ -40,9 +40,9 @@
                 <tr>
                     <td><span class="username">{{ $gh->screen_name }}</span> {{ __('messages.Lang129') }} {{ __('messages.Lang'.$bonusItemType) }} <span class="bonus{{$bonusStyle}}"> {{ $bonusItemName }}</span></td>
                 </tr>
+                <?php endif; ?>
                 <?php endforeach; ?>
             </table>
-            <?php endif; ?>
             <?php else: ?>
             <div>{{ __('messages.Lang125') }}</div>
             <?php endif; ?>
